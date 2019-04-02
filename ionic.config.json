@@ -1,0 +1,8 @@
+{
+  "name": "szirineapp",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}

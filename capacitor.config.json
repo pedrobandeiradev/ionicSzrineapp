@@ -1,0 +1,6 @@
+{
+  "appId": "com.pedrohbandeira",
+  "appName": "szirineapp",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
